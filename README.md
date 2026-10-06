@@ -169,7 +169,7 @@ Mapping reads correctly is crucial, as misaligned reads can lead to erroneous co
 
 
 Read mapping can take a long time and we have limited time in the lab so you can use the pre-mapped bam files we have prepared from 
-https://galaxy-main.usegalaxy.org/u/laura_whelan/h/att-y3-ngs-2025-bam
+https://usegalaxy.eu/u/laura-anne-whelan/h/att-gcb-2026-bam
 
 These files are exactly the same as the output you would get. 
 
