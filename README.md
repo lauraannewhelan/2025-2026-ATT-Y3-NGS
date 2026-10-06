@@ -245,7 +245,7 @@ We will use **FreeBayes** to call variants. **FreeBayes** is a Bayesian genetic 
 >     * _“Limit variant calling to a set of regions?”_: `Do not limit`
 >     * _“Choose parameter selection level”_: `1. Simple diploid calling`
 
-**FREEBAYES FILE** https://usegalaxy.org/u/laura_whelan/h/freebayes
+
 
 **Congratulations!** You’ve created your first multisample VCF file, which stores detailed information about detected variants such as:
 
