@@ -14,11 +14,6 @@
 
 ---
 
-# 🛠 Before You Begin
-
-1. **Create a Galaxy user account** using your RCSI email: [Sign up here](https://usegalaxy.org/login/start?redirect=None).
-
----
 
 # Exome Sequencing Data Analysis for Diagnosing a Genetic Disease
 
