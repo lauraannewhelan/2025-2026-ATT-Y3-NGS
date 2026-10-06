@@ -81,7 +81,7 @@ In this tutorial, we will analyze exome sequencing data from a family trio, wher
 
 ### Hands-on: Data retrieval
 
-1. **Import the history** for this tutorial https://usegalaxy.org/u/laura_whelan/h/att-y3-ngs-2025-1. This contains the files you need to get started.
+1. **Import the history** for this tutorial https://usegalaxy.eu/published/history?id=11ac94870d0bb33a3c4738a3594d4ca3 - This contains the files you need to get started.
   
 
 2. **Check** that the newly created datasets have their datatypes correctly assigned to `fastqsanger.gz`. Fix any missing or incorrect datatype assignment.
